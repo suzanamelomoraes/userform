@@ -37,4 +37,3 @@ function validateEmail() {
     email.classList.remove("is-invalid");
   }
 }
-
